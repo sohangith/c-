@@ -10,7 +10,7 @@ int main () {
     int sq=(a+b)*2;
     cout <<"the sum of two number is" << sum << endl;
     cout <<"the multilbe of two number is " << multiply<<endl;
-    cout <<" the division of two number is " << div;
+    cout <<" the division of two number is " << div << endl;
     cout <<"the square of two number " << sq;
 
  
